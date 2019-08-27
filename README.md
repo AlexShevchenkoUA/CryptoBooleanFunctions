@@ -1,8 +1,8 @@
 # CryptoBooleanFunctions
 
 <h1>Overview</h2>
-<p>The application is designed for computing main cryptographic characteristics of boolean functions. In use GPGPU model for speed up the
-computations. The speed up over ordinary serial programms may be up to 60 times.<p>
+<p>The application is designed for computing cryptographic properties of boolean functions. GPGPU model has used for speedup the
+computations. The speedup over ordinary serial programs may be up to 60 times.<p>
 
 <h2>Characteristics description</h2>
 <p>
